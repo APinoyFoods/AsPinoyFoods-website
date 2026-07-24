@@ -140,7 +140,7 @@ h3 { font-size: 1.25rem; }
   padding-bottom: 10px;
 }
 .brand { display: flex; align-items: center; text-decoration: none; }
-.brand-logo { height: 52px; width: auto; border-radius: 3px; }
+.brand-logo { height: 84px; width: auto; }
 
 .main-nav { display: none; align-items: center; gap: 28px; }
 .main-nav a:not(.btn) {
