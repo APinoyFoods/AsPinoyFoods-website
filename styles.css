@@ -420,6 +420,11 @@ h3 { font-size: 1.25rem; }
   padding: 48px 0 40px;
   text-align: center;
 }
+.footer-inner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 .footer-mark { display: block; width: 64px; height: auto; margin: 0 auto 16px; }
 .footer-inner { text-align: center; }
 .footer-inner p { color: inherit; margin: 0.2em 0; }
